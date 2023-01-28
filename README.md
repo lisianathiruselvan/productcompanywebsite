@@ -746,6 +746,9 @@ Publish the website in the given URL.
 
 ![contact](https://user-images.githubusercontent.com/119389971/215275771-8a9d40db-d303-4259-8d92-e4ff939d7ea9.png)
 
+### Html Validator:
+![valid](https://user-images.githubusercontent.com/119389971/215276050-40235b2c-d03c-417d-b424-809c82e22d4f.png)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
